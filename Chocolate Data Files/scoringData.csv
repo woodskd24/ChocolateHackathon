@@ -1,0 +1,401 @@
+"id","company_location","country_of_bean_origin","cocoa_percent","sweet","nutty","cocoa","roasty","earthy","creamy","sandy","fatty","floral","intense","spicy","sour","vanilla","fruit","molasses","woody","sticky","coffee","rich","dried.fruit","ingredient_Beans","ingredient_Sugar","ingredient_Sweetener","ingredient_Cocoa_Butter","ingredient_vanilla","ingredient_lecithin","ingredient_salt","number_of_ingredients"
+10001,"Other","Ecuador",70,"No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10002,"U.S.A.","Other",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10003,"Other","Brazil",72,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10004,"Other","Mexico",70,"No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10005,"Ecuador","Ecuador",91,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10006,"Other","Ecuador",85,"No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10007,"Other","Guatemala",70,"No","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10008,"Other","Other",58,"Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10009,"Other","Colombia",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10010,"Other","Venezuela",73,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10011,"U.S.A.","Other",72,"No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10012,"U.S.A.","Dominican Republic",77,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10013,"Other","Dominican Republic",75,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10014,"U.S.A.","Other",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10015,"Other","Other",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10016,"U.S.A.","Dominican Republic",68,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10017,"Other","Venezuela",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No","No",3
+10018,"U.S.A.","Peru",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No","No",2
+10019,"Italy","Blend",64,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10020,"Canada","Venezuela",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No","No",3
+10021,"U.K.","Dominican Republic",85,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10022,"Other","Other",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10023,"U.S.A.","Blend",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10024,"Other","Brazil",65,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","No","Yes","Yes","Yes","No","No","No","No",2
+10025,"U.S.A.","Dominican Republic",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10026,"Australia","Bolivia",72,"No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10027,"U.S.A.","Colombia",75,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10028,"Australia","Bolivia",72,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10029,"Italy","Ecuador",64,"Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10030,"U.K.","Dominican Republic",72,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10031,"Ecuador","Ecuador",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10032,"Italy","Venezuela",70,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No",2
+10033,"U.S.A.","Other",70,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10034,"U.S.A.","Nicaragua",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10035,"U.S.A.","Colombia",72,"No","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10036,"Australia","Other",66,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10037,"U.S.A.","Guatemala",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10038,"Other","Venezuela",70,"No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10039,"U.S.A.","Other",70,"Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10040,"France","Brazil",75,"No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10041,"France","Other",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10042,"Other","Nicaragua",80,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No","No",3
+10043,"Other","Madagascar",72,"No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10044,"Other","Brazil",60,"Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10045,"U.S.A.","Nicaragua",68,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10046,"Canada","Other",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10047,"Italy","Tanzania",70,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10048,"Other","Other",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10049,"Italy","Venezuela",70,"No","Yes","No","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10050,"U.S.A.","Tanzania",70,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No","No",2
+10051,"France","Guatemala",70,"No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10052,"U.K.","Ecuador",100,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No",1
+10053,"France","Dominican Republic",63,"No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","Yes","No","No","No","No",NA
+10054,"U.S.A.","Other",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10055,"U.S.A.","Ecuador",70,"No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10056,"U.S.A.","Peru",67,"No","No","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10057,"U.S.A.","Peru",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No",2
+10058,"Other","Other",76,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No",2
+10059,"U.S.A.","Dominican Republic",72,"No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10060,"Other","Peru",70,"No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10061,"U.K.","Nicaragua",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10062,"Other","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10063,"Other","Other",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10064,"Other","Blend",62,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10065,"U.S.A.","Other",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10066,"U.S.A.","Dominican Republic",70,"Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10067,"U.S.A.","Peru",72,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10068,"U.S.A.","Other",65,"Yes","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10069,"U.S.A.","Belize",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10070,"U.S.A.","Dominican Republic",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","Yes","Yes","Yes","No","No","No","No",2
+10071,"Belgium","Other",72,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10072,"U.S.A.","Other",70,"Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10073,"Other","Mexico",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10074,"Other","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No","No",2
+10075,"Canada","Venezuela",70,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10076,"Other","Colombia",70,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10077,"Other","Venezuela",72,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10078,"U.S.A.","Dominican Republic",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10079,"U.S.A.","Other",68,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10080,"U.S.A.","Other",65,"No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10081,"Canada","Venezuela",70,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10082,"Other","Venezuela",70,"No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10083,"France","Madagascar",70,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","Yes","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10084,"Belgium","Ecuador",72,"No","No","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10085,"Australia","Dominican Republic",70,"No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10086,"Belgium","Venezuela",75,"No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10087,"U.S.A.","Other",70,"No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10088,"U.S.A.","Guatemala",70,"Yes","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10089,"U.S.A.","Other",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10090,"Canada","Blend",70,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10091,"Other","Madagascar",70,"No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10092,"U.S.A.","Other",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10093,"U.K.","Madagascar",77,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10094,"Other","Madagascar",70,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10095,"Other","Belize",83,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10096,"U.S.A.","Tanzania",80,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10097,"Other","Madagascar",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10098,"U.S.A.","Colombia",72,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10099,"Other","Colombia",70,"No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10100,"Ecuador","Ecuador",72,"No","No","Yes","No","No","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10101,"U.K.","Other",70,"No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10102,"Other","Venezuela",74,"No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10103,"Other","Other",77,"No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10104,"U.S.A.","Blend",62,"Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10105,"U.S.A.","Venezuela",70,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10106,"U.S.A.","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10107,"Other","Nicaragua",70,"No","No","No","No","No","No","Yes","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10108,"Other","Colombia",70,"No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","Yes","No",3
+10109,"France","Venezuela",75,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10110,"Other","Mexico",70,"No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10111,"Other","Other",75,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10112,"U.K.","Other",72,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10113,"U.S.A.","Bolivia",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10114,"Other","Venezuela",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10115,"U.S.A.","Venezuela",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10116,"U.S.A.","Venezuela",70,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10117,"U.S.A.","Ecuador",70,"No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10118,"U.S.A.","Venezuela",70,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10119,"U.S.A.","Dominican Republic",70,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10120,"Other","Venezuela",68,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10121,"U.S.A.","Dominican Republic",65,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10122,"Other","Other",66,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10123,"France","Peru",63,"Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10124,"U.S.A.","Venezuela",77,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10125,"Ecuador","Ecuador",75,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10126,"Other","Venezuela",70,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10127,"U.S.A.","Vietnam",72,"No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10128,"Ecuador","Ecuador",67,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10129,"U.S.A.","Colombia",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10130,"Other","Brazil",80,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10131,"U.S.A.","Dominican Republic",74,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10132,"U.S.A.","Belize",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10133,"Canada","Mexico",70,"No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10134,"Other","Other",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10135,"U.S.A.","Dominican Republic",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10136,"U.S.A.","Ecuador",75,"No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10137,"Other","Mexico",70,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10138,"U.S.A.","Peru",72,"No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10139,"U.S.A.","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No","No",3
+10140,"U.K.","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10141,"Belgium","Venezuela",74,"No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10142,"U.S.A.","Other",70,"No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10143,"Belgium","Blend",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10144,"Other","Nicaragua",70,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10145,"U.S.A.","Dominican Republic",80,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10146,"Other","Colombia",75,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10147,"U.S.A.","Mexico",77,"No","Yes","No","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10148,"U.S.A.","Bolivia",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10149,"France","Other",75,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10150,"U.S.A.","Peru",70,"No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10151,"U.S.A.","Dominican Republic",73,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10152,"Other","Tanzania",72,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10153,"U.S.A.","Brazil",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10154,"U.S.A.","Other",84,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10155,"U.S.A.","Dominican Republic",74,"No","No","Yes","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10156,"U.S.A.","Dominican Republic",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","No","No","No","No",2
+10157,"U.S.A.","Ecuador",76,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10158,"Other","Dominican Republic",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10159,"Canada","Blend",75,"No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No",2
+10160,"France","Peru",75,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10161,"U.S.A.","Venezuela",72,"Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10162,"U.S.A.","Venezuela",72,"No","Yes","No","No","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10163,"U.S.A.","Guatemala",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10164,"Ecuador","Ecuador",77,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10165,"Belgium","Peru",75,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10166,"Other","Venezuela",75,"No","No","No","Yes","No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10167,"U.S.A.","Dominican Republic",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10168,"Italy","Peru",70,"No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10169,"U.S.A.","Other",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10170,"Other","Belize",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10171,"Other","Brazil",75,"No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10172,"U.S.A.","Venezuela",85,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10173,"Other","Ecuador",70,"No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10174,"U.S.A.","Blend",62,"Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10175,"U.S.A.","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10176,"Ecuador","Ecuador",85,"No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10177,"Other","Dominican Republic",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10178,"U.K.","Other",72,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10179,"Other","Venezuela",70,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10180,"U.S.A.","Nicaragua",72,"No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10181,"U.S.A.","Dominican Republic",75,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10182,"U.K.","Dominican Republic",100,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No",NA
+10183,"U.S.A.","Venezuela",91,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10184,"U.S.A.","Madagascar",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10185,"France","Other",75,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10186,"U.S.A.","Venezuela",70,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10187,"U.S.A.","Other",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10188,"U.S.A.","Other",70,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10189,"U.S.A.","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10190,"Canada","Mexico",70,"No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10191,"Other","Other",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10192,"U.S.A.","Venezuela",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10193,"Ecuador","Ecuador",85,"No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10194,"Belgium","Belize",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10195,"Other","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10196,"U.S.A.","Dominican Republic",74,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10197,"U.S.A.","Ecuador",73,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10198,"U.S.A.","Belize",90,"No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10199,"Other","Colombia",75,"No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","No","No","Yes","No",3
+10200,"U.S.A.","Venezuela",81,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10201,"Other","Venezuela",70,"No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No","No",3
+10202,"U.S.A.","Nicaragua",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No","No",2
+10203,"Other","Madagascar",80,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10204,"U.S.A.","Other",66,"Yes","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10205,"U.S.A.","Bolivia",70,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10206,"Other","Venezuela",75,"No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10207,"U.S.A.","Other",71,"Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10208,"France","Blend",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10209,"U.S.A.","Dominican Republic",72,"No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10210,"U.S.A.","Ecuador",65,"Yes","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10211,"France","Other",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10212,"Other","Dominican Republic",71.5,"No","No","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10213,"U.K.","Peru",68,"No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10214,"U.K.","Ecuador",85,"No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10215,"France","Other",65,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10216,"Ecuador","Ecuador",77,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10217,"U.S.A.","Madagascar",72,"No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10218,"U.S.A.","Dominican Republic",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10219,"Other","Tanzania",74,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10220,"U.S.A.","Colombia",70,"No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10221,"France","Other",75,"No","No","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10222,"Canada","Blend",100,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10223,"U.S.A.","Peru",66,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10224,"Canada","Bolivia",70,"Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10225,"Australia","Other",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10226,"France","Blend",75,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10227,"Australia","Ecuador",72,"No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10228,"U.S.A.","Venezuela",74,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10229,"Canada","Other",70,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10230,"U.S.A.","Peru",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10231,"Italy","Other",70,"No","No","No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10232,"U.S.A.","Guatemala",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10233,"U.S.A.","Bolivia",87,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10234,"Canada","Dominican Republic",70,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","Yes","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10235,"U.S.A.","Ecuador",70,"No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10236,"France","Madagascar",100,"No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","No","Yes","Yes","No","No","No",2
+10237,"France","Venezuela",69,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10238,"U.S.A.","Madagascar",71,"No","No","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","No","No","No","No",2
+10239,"Other","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10240,"U.K.","Peru",80,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10241,"U.S.A.","Other",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10242,"Other","Madagascar",76,"No","No","No","No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10243,"Other","Other",70,"Yes","No","No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10244,"U.S.A.","Other",70,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10245,"Other","Other",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","Yes",4
+10246,"U.S.A.","Other",55,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10247,"Other","Belize",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10248,"Other","Venezuela",72,"No","Yes","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10249,"U.S.A.","Dominican Republic",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10250,"U.K.","Nicaragua",71,"No","No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10251,"Other","Bolivia",66,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10252,"Canada","Tanzania",72,"No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10253,"U.S.A.","Venezuela",70,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10254,"U.S.A.","Venezuela",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10255,"U.S.A.","Dominican Republic",72,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10256,"Other","Venezuela",70,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10257,"Other","Madagascar",67,"No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10258,"Australia","Other",70,"No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10259,"U.S.A.","Peru",70,"Yes","No","No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10260,"U.S.A.","Venezuela",72,"No","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10261,"Other","Other",88,"No","No","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10262,"Canada","Madagascar",70,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10263,"U.S.A.","Peru",72,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10264,"U.K.","Madagascar",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10265,"U.S.A.","Venezuela",80,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10266,"U.S.A.","Other",75,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10267,"U.S.A.","Other",85,"No","No","No","No","Yes","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10268,"U.S.A.","Nicaragua",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10269,"U.S.A.","Belize",80,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10270,"Australia","Other",74,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10271,"U.S.A.","Nicaragua",72,"No","Yes","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10272,"Other","Mexico",70,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10273,"U.S.A.","Other",71,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10274,"Belgium","Blend",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10275,"U.S.A.","Other",68,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10276,"Ecuador","Ecuador",75,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10277,"U.S.A.","Belize",70,"No","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No",2
+10278,"Other","Colombia",71,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No","No",3
+10279,"U.S.A.","Dominican Republic",65,"No","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10280,"Other","Ecuador",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10281,"U.S.A.","Ecuador",74,"No","No","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10282,"Other","Venezuela",72,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10283,"Other","Dominican Republic",55,"Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10284,"U.S.A.","Other",70,"No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10285,"France","Venezuela",75,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10286,"U.S.A.","Dominican Republic",70,"No","No","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10287,"U.S.A.","Ecuador",70,"No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10288,"U.S.A.","Dominican Republic",65,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","Yes","No",4
+10289,"U.S.A.","Venezuela",76,"No","No","No","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10290,"Other","Dominican Republic",72,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No",2
+10291,"U.S.A.","Other",80,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","Yes","Yes","No",4
+10292,"Other","Other",66,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10293,"U.S.A.","Peru",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10294,"Canada","Dominican Republic",72,"No","No","Yes","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10295,"U.S.A.","Venezuela",75,"No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10296,"Other","Other",70,"Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10297,"Australia","Brazil",70,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10298,"France","Venezuela",66,"No","No","Yes","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10299,"Other","Peru",64,"No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10300,"Belgium","Madagascar",72,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10301,"Canada","Ecuador",72,"Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10302,"Belgium","Other",64,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10303,"U.K.","Other",72,"No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10304,"U.S.A.","Colombia",70,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10305,"U.S.A.","Other",64,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10306,"U.S.A.","Bolivia",68,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10307,"U.S.A.","Tanzania",72,"No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10308,"Other","Other",70,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10309,"Other","Ecuador",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10310,"Other","Other",70,"No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10311,"Other","Venezuela",70,"No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10312,"U.S.A.","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10313,"U.S.A.","Brazil",70,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10314,"Other","Blend",58,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10315,"U.S.A.","Brazil",77,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10316,"U.S.A.","Dominican Republic",68,"No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No","No",4
+10317,"Other","Other",85,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10318,"Other","Nicaragua",75,"No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10319,"U.S.A.","Ecuador",77,"No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10320,"Canada","Venezuela",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10321,"U.S.A.","Madagascar",72,"No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10322,"U.S.A.","Dominican Republic",72,"No","No","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10323,"U.S.A.","Dominican Republic",71,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10324,"Other","Madagascar",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10325,"Other","Dominican Republic",74,"No","No","Yes","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10326,"Other","Vietnam",70,"Yes","No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10327,"U.S.A.","Brazil",85,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","No","Yes","Yes","Yes","Yes","No","No","No",3
+10328,"France","Colombia",75,"Yes","No","No","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10329,"Canada","Madagascar",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10330,"U.S.A.","Peru",70,"No","Yes","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10331,"U.S.A.","Ecuador",70,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10332,"Other","Venezuela",75,"No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10333,"U.S.A.","Other",70,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10334,"Ecuador","Ecuador",72,"No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10335,"Other","Bolivia",76,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10336,"U.S.A.","Other",69,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10337,"Other","Venezuela",74,"No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10338,"U.K.","Ecuador",90,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10339,"U.S.A.","Madagascar",70,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10340,"U.S.A.","Guatemala",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10341,"Canada","Other",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10342,"U.S.A.","Dominican Republic",70,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","No","No","Yes","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10343,"Other","Nicaragua",70,"No","No","No","No","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10344,"Canada","Brazil",80,"No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10345,"Other","Other",72,"No","No","Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10346,"U.S.A.","Other",73,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10347,"Other","Dominican Republic",80,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10348,"U.K.","Other",72,"No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10349,"U.S.A.","Other",65,"Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10350,"U.S.A.","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10351,"U.S.A.","Other",70,"No","Yes","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10352,"France","Madagascar",75,"No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10353,"U.S.A.","Nicaragua",70,"No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10354,"U.S.A.","Venezuela",70,"No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10355,"U.S.A.","Venezuela",75,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10356,"Other","Other",100,"No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No",1
+10357,"Other","Other",82,"Yes","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10358,"U.S.A.","Dominican Republic",72.5,"No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","Yes",5
+10359,"Canada","Guatemala",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10360,"U.S.A.","Tanzania",70,"Yes","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10361,"Other","Venezuela",88,"No","Yes","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10362,"Other","Dominican Republic",70,"Yes","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10363,"U.S.A.","Brazil",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10364,"U.S.A.","Other",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10365,"Australia","Other",64,"Yes","No","No","Yes","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10366,"Other","Brazil",81,"No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10367,"Canada","Mexico",65,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10368,"U.S.A.","Peru",60,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10369,"U.K.","Other",100,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10370,"U.S.A.","Other",65,"No","No","Yes","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10371,"U.S.A.","Colombia",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10372,"U.S.A.","Ecuador",60,"No","Yes","No","Yes","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10373,"Other","Brazil",75,"Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10374,"Canada","Peru",64,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10375,"Italy","Colombia",70,"No","No","No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10376,"Canada","Madagascar",100,"No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No",1
+10377,"Other","Mexico",70,"No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10378,"U.S.A.","Tanzania",70,"No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10379,"Italy","Venezuela",65,"No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10380,"Other","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No",2
+10381,"Other","Venezuela",76,"No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10382,"Other","Nicaragua",70,"No","No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","No","No","No","No",2
+10383,"Other","Nicaragua",80,"No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10384,"Other","Peru",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","Yes","No","No","No","No",NA
+10385,"Canada","Venezuela",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10386,"Ecuador","Ecuador",70,"No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10387,"Other","Madagascar",75,"No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","Yes","Yes","Yes","Yes","Yes","No",5
+10388,"Italy","Venezuela",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10389,"Australia","Other",72,"No","No","No","No","No","No","No","Yes","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10390,"Canada","Venezuela",70,"No","Yes","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10391,"Other","Venezuela",72,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10392,"U.S.A.","Dominican Republic",70,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","Yes","Yes","Yes","No","No","No","No",2
+10393,"U.K.","Colombia",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","Yes","Yes","Yes","Yes","Yes","No","Yes","No",4
+10394,"Other","Blend",73.5,"No","No","Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
+10395,"France","Madagascar",65,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10396,"U.S.A.","Other",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","Yes","Yes","Yes","Yes","No","No","No","No",2
+10397,"U.S.A.","Other",75,"No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","Yes","No","No",4
+10398,"France","Brazil",75,"No","No","No","No","No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","Yes","No",4
+10399,"U.S.A.","Tanzania",75,"No","No","No","No","No","No","No","Yes","No","No","No","No","No","No","No","No","No","No","No","No","Yes","Yes","Yes","Yes","No","No","No",3
+10400,"U.S.A.","Tanzania",70,"Yes","No","No","No","No","No","No","No","No","No","No","Yes","No","Yes","No","No","No","No","No","No","Yes","Yes","Yes","No","No","No","No",2
