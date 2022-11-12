@@ -1,0 +1,63 @@
+Time taken to build model (full training data) : 0.01 seconds
+
+=== Model and evaluation on test split ===
+
+kMeans
+======
+
+Number of iterations: 5
+Within cluster sum of squared errors: 2944.7514784321925
+
+Initial starting points (random):
+
+Cluster 0: 2,14,72,2.75,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,1,1,1,0,0,0,3
+Cluster 1: 7,11,77,3.25,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,1,0,0,0,3
+
+Missing values globally replaced with mean/mode
+
+Final cluster centroids:
+                                       Cluster#
+Attribute                  Full Data          0          1
+                            (1491.0)    (198.0)   (1293.0)
+==========================================================
+company_location               5.784     5.8838     5.7688
+country_of_bean_origin       12.5801    12.5354     12.587
+cocoa_percent                71.5221    72.6187    71.3542
+rating                        3.2039     3.2917     3.1904
+sweet                         0.1341     0.1162     0.1369
+nutty                         0.1006     0.0606     0.1067
+cocoa                          0.163     0.1515     0.1647
+roasty                        0.0852     0.0808     0.0858
+earthy                        0.0765     0.0404      0.082
+creamy                        0.0798     0.0606     0.0828
+sandy                         0.0691     0.0758     0.0681
+fatty                         0.0664     0.0455     0.0696
+floral                        0.0684     0.0556     0.0704
+intense                       0.0704     0.0606     0.0719
+spicy                         0.0577     0.0253     0.0626
+sour                          0.0832     0.0758     0.0843
+vanilla                       0.0409     0.0303     0.0425
+fruit                         0.1328          1          0
+molasses                      0.0402     0.0505     0.0387
+woody                         0.0335     0.0101     0.0371
+sticky                        0.0362     0.0354     0.0363
+coffee                        0.0382     0.0101     0.0425
+rich                          0.0577     0.0505     0.0588
+dried.fruit                   0.0335     0.2525          0
+ingredient_Beans              0.9631     0.9646     0.9629
+ingredient_Sweetener               1          1          1
+ingredient_Cocoa_Butter       0.6606     0.6111     0.6682
+ingredient_vanilla            0.1402     0.0859     0.1485
+ingredient_lecithin           0.1945     0.1263     0.2049
+ingredient_salt               0.0154     0.0101     0.0162
+number_of_ingredients         3.0489     2.8655      3.077
+
+
+
+
+Time taken to build model (percentage split) : 0 seconds
+
+Clustered Instances
+
+0       76 ( 12%)
+1      563 ( 88%)
