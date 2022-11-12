@@ -1,0 +1,65 @@
+=== Run information ===
+
+Scheme:       weka.classifiers.trees.RandomForest -P 100 -I 100 -num-slots 1 -K 0 -M 1.0 -V 0.001 -S 1
+Relation:     ChocolateCleanOfficial1-weka.filters.unsupervised.attribute.Remove-R33-weka.filters.unsupervised.instance.RemovePercentage-P30.0
+Instances:    1491
+Attributes:   32
+              company_location
+              country_of_bean_origin
+              cocoa_percent
+              rating
+              sweet
+              nutty
+              cocoa
+              roasty
+              earthy
+              creamy
+              sandy
+              fatty
+              floral
+              intense
+              spicy
+              sour
+              vanilla
+              fruit
+              molasses
+              woody
+              sticky
+              coffee
+              rich
+              dried.fruit
+              ingredient_Beans
+              ingredient_Sugar
+              ingredient_Sweetener
+              ingredient_Cocoa_Butter
+              ingredient_vanilla
+              ingredient_lecithin
+              ingredient_salt
+              number_of_ingredients
+Test mode:    evaluate on training data
+
+=== Classifier model (full training set) ===
+
+RandomForest
+
+Bagging with 100 iterations and base learner
+
+weka.classifiers.trees.RandomTree -K 0 -M 1.0 -V 0.001 -S 1 -do-not-check-capabilities
+
+Time taken to build model: 0.43 seconds
+
+=== Evaluation on training set ===
+
+Time taken to test model on training data: 0.07 seconds
+
+=== Summary ===
+
+Correlation coefficient                  0.9384
+Kendall's tau                            0.8314
+Spearman's rho                           0.9341
+Mean absolute error                      0.1246
+Root mean squared error                  0.171 
+Relative absolute error                 35.4693 %
+Root relative squared error             39.4426 %
+Total Number of Instances             1491     
+
