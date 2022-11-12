@@ -1,0 +1,84 @@
+=== Run information ===
+
+Evaluator:    weka.attributeSelection.CorrelationAttributeEval 
+Search:       weka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Relation:     ChocolateCleanOfficial1-weka.filters.unsupervised.attribute.Remove-R33
+Instances:    2130
+Attributes:   32
+              company_location
+              country_of_bean_origin
+              cocoa_percent
+              rating
+              sweet
+              nutty
+              cocoa
+              roasty
+              earthy
+              creamy
+              sandy
+              fatty
+              floral
+              intense
+              spicy
+              sour
+              vanilla
+              fruit
+              molasses
+              woody
+              sticky
+              coffee
+              rich
+              dried.fruit
+              ingredient_Beans
+              ingredient_Sugar
+              ingredient_Sweetener
+              ingredient_Cocoa_Butter
+              ingredient_vanilla
+              ingredient_lecithin
+              ingredient_salt
+              number_of_ingredients
+Evaluation mode:    evaluate on all training data
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Attribute ranking.
+
+Attribute Evaluator (supervised, Class (numeric): 25 ingredient_Beans):
+	Correlation Ranking Filter
+Ranked attributes:
+ 0.9785231971   26 ingredient_Sugar
+ 0.2601438291   28 ingredient_Cocoa_Butter
+ 0.163995585     4 rating
+ 0.0916278934   30 ingredient_lecithin
+ 0.0742014517   29 ingredient_vanilla
+ 0.0581006444    2 country_of_bean_origin
+ 0.0490135509    8 roasty
+ 0.0458311535   23 rich
+ 0.0391483651   14 intense
+ 0.0380400302   19 molasses
+ 0.0332527394   10 creamy
+ 0.0313838242   24 dried.fruit
+ 0.0296676606    1 company_location
+ 0.0238263446   31 ingredient_salt
+ 0.0209283707   20 woody
+ 0.0175951657   13 floral
+ 0.0157681585   18 fruit
+ 0.0052780915    6 nutty
+ 0.0035699088    7 cocoa
+ 0              27 ingredient_Sweetener
+-0.0000000753   32 number_of_ingredients
+-0.0014100441   12 fatty
+-0.0014100441   11 sandy
+-0.0077617462    9 earthy
+-0.0081691209   22 coffee
+-0.0097802142   21 sticky
+-0.0193755304   16 sour
+-0.0241522535    5 sweet
+-0.0328949408   15 spicy
+-0.0629645698   17 vanilla
+-0.1406903619    3 cocoa_percent
+
+Selected attributes: 26,28,4,30,29,2,8,23,14,19,10,24,1,31,20,13,18,6,7,27,32,12,11,9,22,21,16,5,15,17,3 : 31
