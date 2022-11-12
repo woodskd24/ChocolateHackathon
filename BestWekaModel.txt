@@ -1,0 +1,33 @@
+Auto-WEKA result:
+best classifier: weka.classifiers.trees.REPTree
+arguments: [-M, 1, -V, 1.9779535711850045E-4, -L, 2, -P]
+attribute search: null
+attribute search arguments: []
+attribute evaluation: null
+attribute evaluation arguments: []
+metric: errorRate
+estimated errorRate: 0.0
+training time on evaluation dataset: 0.007 seconds
+
+You can use the chosen classifier in your own code as follows:
+
+Classifier classifier = AbstractClassifier.forName("weka.classifiers.trees.REPTree", new String[]{"-M", "1", "-V", "1.9779535711850045E-4", "-L", "2", "-P"});
+classifier.buildClassifier(instances);
+
+
+Correlation coefficient                  0.9818
+Kendall's tau                            0.9785
+Spearman's rho                           0.979 
+Mean absolute error                      0.0023
+Root mean squared error                  0.0339
+Relative absolute error                  3.6096 %
+Root relative squared error             18.9989 %
+Total Number of Instances             2130     
+
+
+Temporary run directories:
+C:\Users\Kelsey\AppData\Local\Temp\autoweka10010945593112321920\
+
+
+For better performance, try giving Auto-WEKA more time.
+Tried 202 configurations; to get good results reliably you may need to allow for trying thousands of configurations.
