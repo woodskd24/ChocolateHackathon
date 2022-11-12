@@ -1,0 +1,33 @@
+Auto-WEKA result:
+best classifier: weka.classifiers.trees.RandomForest
+arguments: [-I, 110, -K, 0, -depth, 13]
+attribute search: null
+attribute search arguments: []
+attribute evaluation: null
+attribute evaluation arguments: []
+metric: errorRate
+estimated errorRate: 0.3084763497548717
+training time on evaluation dataset: 0.518 seconds
+
+You can use the chosen classifier in your own code as follows:
+
+Classifier classifier = AbstractClassifier.forName("weka.classifiers.trees.RandomForest", new String[]{"-I", "110", "-K", "0", "-depth", "13"});
+classifier.buildClassifier(instances);
+
+
+Correlation coefficient                  0.6166
+Kendall's tau                            0.4388
+Spearman's rho                           0.5718
+Mean absolute error                      0.2718
+Root mean squared error                  0.3527
+Relative absolute error                 75.8194 %
+Root relative squared error             79.307  %
+Total Number of Instances             2130     
+
+
+Temporary run directories:
+C:\Users\Kelsey\AppData\Local\Temp\autoweka11082924786623065157\
+
+
+For better performance, try giving Auto-WEKA more time.
+Tried 182 configurations; to get good results reliably you may need to allow for trying thousands of configurations.
