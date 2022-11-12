@@ -1,0 +1,85 @@
+=== Run information ===
+
+Evaluator:    weka.attributeSelection.CorrelationAttributeEval 
+Search:       weka.attributeSelection.Ranker -T -1.7976931348623157E308 -N -1
+Relation:     ChocolateCleanOfficial1-weka.filters.unsupervised.attribute.Remove-R33
+Instances:    2130
+Attributes:   32
+              company_location
+              country_of_bean_origin
+              cocoa_percent
+              rating
+              sweet
+              nutty
+              cocoa
+              roasty
+              earthy
+              creamy
+              sandy
+              fatty
+              floral
+              intense
+              spicy
+              sour
+              vanilla
+              fruit
+              molasses
+              woody
+              sticky
+              coffee
+              rich
+              dried.fruit
+              ingredient_Beans
+              ingredient_Sugar
+              ingredient_Sweetener
+              ingredient_Cocoa_Butter
+              ingredient_vanilla
+              ingredient_lecithin
+              ingredient_salt
+              number_of_ingredients
+Evaluation mode:    evaluate on all training data
+
+
+
+=== Attribute Selection on all input data ===
+
+Search Method:
+	Attribute ranking.
+
+Attribute Evaluator (supervised, Class (numeric): 32 number_of_ingredients):
+	Correlation Ranking Filter
+Ranked attributes:
+ 0.7337320905   30 ingredient_lecithin
+ 0.7268166478   28 ingredient_Cocoa_Butter
+ 0.6759373935   29 ingredient_vanilla
+ 0.2407290886   17 vanilla
+ 0.1900242551   31 ingredient_salt
+ 0.1117415855    5 sweet
+ 0.0994063637   10 creamy
+ 0.0853002952   12 fatty
+ 0.0388062004    6 nutty
+ 0.021102002    23 rich
+ 0.0177211942   26 ingredient_Sugar
+ 0.0111860885   11 sandy
+ 0.0059202467   20 woody
+ 0.0029137823    7 cocoa
+ 0              27 ingredient_Sweetener
+-0.0000000753   25 ingredient_Beans
+-0.0217306795   13 floral
+-0.0278908308   22 coffee
+-0.029490061    15 spicy
+-0.0416834346   24 dried.fruit
+-0.0579518826    9 earthy
+-0.060069024    21 sticky
+-0.0677150905   19 molasses
+-0.0677649049    8 roasty
+-0.0694261197    2 country_of_bean_origin
+-0.0752509907   18 fruit
+-0.0866671073   14 intense
+-0.0979091061   16 sour
+-0.1040958811    4 rating
+-0.1601203247    1 company_location
+-0.1685080823    3 cocoa_percent
+
+Selected attributes: 30,28,29,17,31,5,10,12,6,23,26,11,20,7,27,25,13,22,15,24,9,21,19,8,2,18,14,16,4,1,3 : 31
+
