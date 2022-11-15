@@ -1,8 +1,8 @@
 # Chocolate Hackathon (Dataiku)
 
-This is a repository for our team (Team Crunch 'The Numbers' Bar)'s submission for the [2022 Lubin School and Dataiku Hackathon](https://www.pace.edu/lubin/life-lubin/events-students/case-competitions/dataiku-hackathon). It contains scripts for the data cleaning, EDA, and machine learning model predictions that we performed on the dataset. We have produced a [short video presentation](https://www.youtube.com/watch?v=Mu1sPQxeojc) to summarize our findings.
+This is a repository for our team (Team Crunch 'The Numbers' Bar)'s submission for the [2022 Lubin School and Dataiku Hackathon](https://www.pace.edu/lubin/life-lubin/events-students/case-competitions/dataiku-hackathon). It contains scripts for the data cleaning, EDA, and machine learning model predictions that we performed on the dataset. We have produced a [short video presentation](https://www.youtube.com/watch?v=Mu1sPQxeojc) to summarize our [findings](https://github.com/woodskd24/ChocolateHackathon/tree/main/Final%20Submission).
 
-![image](https://user-images.githubusercontent.com/56360465/201800749-5f5ad3cc-6bb3-4517-99ec-9b891371d62a.png)
+![image](https://github.com/woodskd24/ChocolateHackathon/blob/main/Plots/chocolate.png)
 
 ## Research Problem
 We are provided a dataset of over 2000 chocolates’ defining characteristics such as cacao bean source, company, cocoa percentage, ingredient composition, most memorable characteristics, and ratings. We are interested in learning about the specific characteristics of chocolate that make it likable (or delicious) and in constructing models to predict ratings of chocolates.
